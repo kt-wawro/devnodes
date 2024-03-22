@@ -1,4 +1,4 @@
-/* Landing Page 1 */
+|Landing Page |
 
 position: relative;
 width: 1920px;
